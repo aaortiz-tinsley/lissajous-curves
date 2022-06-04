@@ -14,4 +14,8 @@ A few screenshots of the draw loop in action:
 
 ![green-stroked lissajous curves that create a full diamond checkered pattern on a black background.](lissajous-4.png)
 
+See the Pen <a href="https://codepen.io/huesofheart/pen/QWQQzWd">
+  Lissajous Curves</a> by Lexi ♡ (<a href="https://codepen.io/huesofheart">@huesofheart</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+
 <3
